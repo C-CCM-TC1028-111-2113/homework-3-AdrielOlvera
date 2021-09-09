@@ -10,7 +10,6 @@ def main():
     ar=area(base,altura)
     volumen=vol(ar,profundidad)
     print("El volumen del prisma es: "+str(volumen)
-    pass
-
+  
 if __name__=='__main__':
     main()
